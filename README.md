@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anto Shammah</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Breaking down code, not dreams.</h3>
 
 <p align="center">
    <a href="https://shammahanto.hashnode.dev/" target="_blank">
